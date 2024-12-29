@@ -1,5 +1,5 @@
-# 112 教育部智慧創新關鍵人才躍升計畫
-<a href="http://140.126.146.12:9090/GitHub2023/">112 教育部智慧創新之 GitHub 學習平台</a>&nbsp;<a
+# 113 教育部智慧創新關鍵人才躍升計畫
+<a href="http://140.126.146.12:9090/GitHub2023/">113 教育部智慧創新之 GitHub 學習平台</a>&nbsp;<a
 href="https://chat.openai.com/auth/login">技術諮詢</a>
 <table>
  <tr>
@@ -15,8 +15,8 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <td>高 O 諺</td>
  </tr>
  <tr>
- <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒系</a></td>
- <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
+ <td><a href="https://bdct.chu.edu.tw">觀光學院學士班</a></td>
+ <td><a href="https://bdct.chu.edu.tw/p/412-1092-2946.php?Lang=zh-tw">實習</a></td>
  <td><a href="">資料視覺化</a></td>
  <td>張 O 庭</td>
  </tr>
@@ -30,4 +30,5 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
 </table><br>
 <img src="II_1.jpg"></img>
 <img src="II_2.jpg"></img>
-<img src="II_3.jpg" style="display:block; margin:auto;" ></img>
+<img src="II_3.jpg"></img>
+<img src="II_4.jpg" style="display:block; margin:auto;" ></img>
