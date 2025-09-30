@@ -1,4 +1,4 @@
-# 113 教育部智慧創新關鍵人才躍升計畫
+# 114 教育部智慧創新關鍵人才躍升計畫
 <a href="http://140.126.146.12:9090/GitHub2023/">113 教育部智慧創新之 GitHub 學習平台</a>&nbsp;<a
 href="https://chat.openai.com/auth/login">技術諮詢</a>
 <table>
@@ -25,7 +25,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
  <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
  <td><a href="https://github.com/simondeng777/ImageProcessing-113-1">影像處理</a></td>
- <td>阮氏 O 錦</td>
+ <td>郭 O 瑄</td>
  </tr>
 </table><br>
 <img src="II_1.png"></img>
